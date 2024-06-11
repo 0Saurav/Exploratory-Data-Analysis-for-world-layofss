@@ -1,5 +1,7 @@
 # Exploratory Data Analysis (EDA) on Layoffs Data
 
+Link for dataset used -- https://www.kaggle.com/datasets/swaptr/layoffs-2022
+
 ## Description
 
 In this project, we conduct Exploratory Data Analysis (EDA) on the layoffs_staging2 dataset. The dataset provides insights into layoffs across various companies, industries, countries, and time periods. Through SQL queries, we uncover patterns, trends, and insights to gain a deeper understanding of the layoffs landscape.
